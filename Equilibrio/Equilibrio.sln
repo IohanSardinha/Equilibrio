@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{424DA3E1-8796-CA54-B608-2A8824F61747}") = "Equilibrio", "Assembly-CSharp.csproj", "{9B94E582-87BC-1C8E-70E3-9F0E90F100DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B94E582-87BC-1C8E-70E3-9F0E90F100DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B94E582-87BC-1C8E-70E3-9F0E90F100DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B94E582-87BC-1C8E-70E3-9F0E90F100DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B94E582-87BC-1C8E-70E3-9F0E90F100DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
